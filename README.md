@@ -1,8 +1,6 @@
-<h4 align="center">
-    A simple Chat-Bot written in Pyrogram using Mongodb.
-</h4>
-
 # Lina Chat Bot
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Lina+chat+Repo!;A+powerfull+chat+bot!;by+bot+developer+03!)
+
 A Powerful Telegram Chat Bot written in pyrogram. Useful for Feedbacks , Anonymous Identity, Supports Groups. Works Similarly like Livegram Bot
 
 ## 🖇 Prerequisites
