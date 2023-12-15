@@ -1,16 +1,9 @@
 # LinaChatBot
-<p align="center"><img src="https://telegra.ph/file/c0e014ff34f34d1056627.png" alt="ICON" width="150" height="150"/></p>
-
 <h4 align="center">
     A simple Chat-Bot written in Pyrogram using Mongodb.
 </h4>
-<p align="center">
-    <a href="https://t.me/TheYukki"> Support Channel </a> •
-    <a href="https://t.me/YukkiSupport"> Support Chat </a> 
-</p>
 
-
-# Yukki Chat Bot
+# Lina Chat Bot
 A Powerful Telegram Chat Bot written in pyrogram. Useful for Feedbacks , Anonymous Identity, Supports Groups. Works Similarly like Livegram Bot
 
 ## 🖇 Prerequisites
@@ -29,7 +22,7 @@ A Powerful Telegram Chat Bot written in pyrogram. Useful for Feedbacks , Anonymo
 ## 🖇 VPS Deployment
 
 ```console
-shikhar@MacBook~ $ git clone https://github.com/TeamYukki/YukkiChatBot
+ git clone https://github.com/TeamYukki/YukkiChatBot
 shikhar@MacBook~ $ cd YukkiChatBot
 shikhar@MacBook~ $ pip3 install -r requirements.txt
 shikhar@MacBook~ $ mv sample.env .env
@@ -58,16 +51,6 @@ shikhar@MacBook~ $ python3 main.py
 
 ## 🗂 License
 
-This project is licensed under the **MIT License**. All designs were created by [@NotReallyShikhar](https://github.com/NotReallyShikhar) .
-
-See [LICENSE](LICENSE) for more information.
-
-
-## 🥹 Acknowledgements
-
-Special thanks to these amazing projects/people which/who help power Yukki Chat Bot:
-
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [TheHamkerCat](https://github.com/TheHamkerCat)
+This project is licensed under the **MIT License**.
 
 Reminder that you are great, you are enough, and your presence is valued. If you are struggling with your mental health, please reach out to someone you love and consult a professional.
