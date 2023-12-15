@@ -1,6 +1,8 @@
 # Lina Chat Bot
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Lina+chat+Repo!;A+powerfull+chat+bot!;by+bot+developer+03!)
-img src="https://telegra.ph/file/bb4ac128a4854b4b35bed.jpg"
+
+<img src="https://telegra.ph/file/bb4ac128a4854b4b35bed.jpg"/>
+
 A Powerful Telegram Chat Bot written in pyrogram. Useful for Feedbacks , Anonymous Identity, Supports Groups. Works Similarly like Livegram Bot
 
 ## 🖇 Prerequisites
