@@ -1,4 +1,3 @@
-# LinaChatBot
 <h4 align="center">
     A simple Chat-Bot written in Pyrogram using Mongodb.
 </h4>
@@ -22,15 +21,21 @@ A Powerful Telegram Chat Bot written in pyrogram. Useful for Feedbacks , Anonymo
 ## 🖇 VPS Deployment
 
 ```console
- git clone https://github.com/TeamYukki/YukkiChatBot
-shikhar@MacBook~ $ cd YukkiChatBot
-shikhar@MacBook~ $ pip3 install -r requirements.txt
-shikhar@MacBook~ $ mv sample.env .env
+ git clone https://github.com/bot-developer03/LinaChatBot
+```
+```console
+cd LinaChatBot
+```
+```console
+pip3 install -r requirements.txt
+```
+```console
+mv sample.env .env
 ```
 > Edit .env with your values and then start bot with
 
 ```console
-shikhar@MacBook~ $ python3 main.py
+python3 main.py
 ```
 
 ## 🔗 Commands
